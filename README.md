@@ -7,6 +7,6 @@ This is a program of dictionary made in cpp with the help of trie data structure
 Operations that can be performed in this are :-  
   - Inserting a word with its meaning.
   - Searching of a word and print the meaning of that word.
-  - Exit
+  - Exit from the program.
   
   
