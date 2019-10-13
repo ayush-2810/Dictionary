@@ -6,7 +6,7 @@ This is a program of dictionary made in cpp with the help of **trie** data struc
 
 A class is made for implementing and using the trie data structure for the implementatoin of dictionary.
 
-Operations that can be performed in this are :-  
+**Operations** that can be performed in this are :-  
   - Inserting a word with its meaning.
   - Searching of a word and print the meaning of that word.
   - Exit from the program.
